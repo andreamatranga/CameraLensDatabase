@@ -1,0 +1,131 @@
+name,section,f_min,f_max,ap_wide,ap_tele,year,focus,is_zoom,is_AF,has_VR,has_ED,has_PF,has_PC,has_Micro,has_Fisheye,mount,system,focal_label,aperture_label
+Canon FDn TS 35mm F/2.8 · Manual,Shift lenses,35.0,35.0,2.8,2.8,0,Manual,False,False,False,False,False,True,False,False,FD,Canon,35mm,f/2.8
+Canon FD 135mm F/3.5 · Auto,Medium telephoto prime lenses,135.0,135.0,3.5,3.5,1970,Manual,False,False,False,False,False,False,False,False,FD,Canon,135mm,f/3.5
+Canon FD 7.5mm F/5.6 Fisheye · Manual,Fisheye lenses,7.5,7.5,5.6,5.6,1971,Manual,False,False,False,False,False,False,False,True,FD,Canon,7.5mm,f/5.6
+Canon FD 17mm F/4 · Auto,Ultra-wide angle prime lenses,17.0,17.0,4.0,4.0,1971,Manual,False,False,False,False,False,False,False,False,FD,Canon,17mm,f/4
+Canon FD 24mm F/2.8 · Auto,Wide-angle prime lenses,24.0,24.0,2.8,2.8,1971,Manual,False,False,False,False,False,False,False,False,FD,Canon,24mm,f/2.8
+Canon FD 28mm F/3.5 · Auto,Wide-angle prime lenses,28.0,28.0,3.5,3.5,1971,Manual,False,False,False,False,False,False,False,False,FD,Canon,28mm,f/3.5
+Canon FD 35mm F/2 · Auto,Wide-angle prime lenses,35.0,35.0,2.0,2.0,1971,Manual,False,False,False,False,False,False,False,False,FD,Canon,35mm,f/2
+Canon FD 35mm F/3.5 · Auto,Wide-angle prime lenses,35.0,35.0,3.5,3.5,1971,Manual,False,False,False,False,False,False,False,False,FD,Canon,35mm,f/3.5
+Canon FD 50mm F/1.4 · Auto,Standard prime lenses,50.0,50.0,1.4,1.4,1971,Manual,False,False,False,False,False,False,False,False,FD,Canon,50mm,f/1.4
+Canon FD 50mm F/1.8 · Auto,Standard prime lenses,50.0,50.0,1.8,1.8,1971,Manual,False,False,False,False,False,False,False,False,FD,Canon,50mm,f/1.8
+Canon FD 55mm F/1.2 AL · Auto,Standard prime lenses,55.0,55.0,1.2,1.2,1971,Manual,False,False,False,False,False,False,False,False,FD,Canon,55mm,f/1.2
+Canon FD 55mm F/1.2 · Auto,Standard prime lenses,55.0,55.0,1.2,1.2,1971,Manual,False,False,False,False,False,False,False,False,FD,Canon,55mm,f/1.2
+Canon FD 100mm F/2.8 · Auto,Short telephoto prime lenses,100.0,100.0,2.8,2.8,1971,Manual,False,False,False,False,False,False,False,False,FD,Canon,100mm,f/2.8
+Canon FD 100-200mm F/5.6 · Auto · Push/pull,Telephoto zoom lenses,100.0,200.0,5.6,5.6,1971,Manual,True,False,False,False,False,False,False,False,FD,Canon,100-200mm,f/5.6
+Canon FD 135mm F/2.5 · Auto,Medium telephoto prime lenses,135.0,135.0,2.5,2.5,1971,Manual,False,False,False,False,False,False,False,False,FD,Canon,135mm,f/2.5
+Canon FD 200mm F/4 · Auto,Medium telephoto prime lenses,200.0,200.0,4.0,4.0,1971,Manual,False,False,False,False,False,False,False,False,FD,Canon,200mm,f/4
+Canon FD 300mm F/5.6 · Auto,Super telephoto prime lenses,300.0,300.0,5.6,5.6,1971,Manual,False,False,False,False,False,False,False,False,FD,Canon,300mm,f/5.6
+Canon FD 7.5mm F/5.6 S.S.C. Fisheye · Manual,Fisheye lenses,7.5,7.5,5.6,5.6,1973,Manual,False,False,False,False,False,False,False,True,FD,Canon,7.5mm,f/5.6
+Canon FD 15mm F/2.8 S.S.C. Fisheye · Auto,Fisheye lenses,15.0,15.0,2.8,2.8,1973,Manual,False,False,False,False,False,False,False,True,FD,Canon,15mm,f/2.8
+Canon FD 17mm F/4 S.S.C. · Auto,Ultra-wide angle prime lenses,17.0,17.0,4.0,4.0,1973,Manual,False,False,False,False,False,False,False,False,FD,Canon,17mm,f/4
+Canon FD 20mm F/2.8 S.S.C. · Auto,Ultra-wide angle prime lenses,20.0,20.0,2.8,2.8,1973,Manual,False,False,False,False,False,False,False,False,FD,Canon,20mm,f/2.8
+Canon FD 24mm F/2.8 S.S.C. · Auto,Wide-angle prime lenses,24.0,24.0,2.8,2.8,1973,Manual,False,False,False,False,False,False,False,False,FD,Canon,24mm,f/2.8
+Canon FD 28mm F/3.5 S.C. · Auto,Wide-angle prime lenses,28.0,28.0,3.5,3.5,1973,Manual,False,False,False,False,False,False,False,False,FD,Canon,28mm,f/3.5
+Canon FD 35mm F/2 S.S.C. [I] · Auto,Wide-angle prime lenses,35.0,35.0,2.0,2.0,1973,Manual,False,False,False,False,False,False,False,False,FD,Canon,35mm,f/2
+Canon FD TS 35mm F/2.8 S.S.C. · Manual,Shift lenses,35.0,35.0,2.8,2.8,1973,Manual,False,False,False,False,False,True,False,False,FD,Canon,35mm,f/2.8
+Canon FD 35mm F/3.5 S.C. [I] · Auto,Wide-angle prime lenses,35.0,35.0,3.5,3.5,1973,Manual,False,False,False,False,False,False,False,False,FD,Canon,35mm,f/3.5
+Canon FD 35-70mm F/2.8-3.5 S.S.C. · Auto,Standard zoom lenses,35.0,70.0,2.8,3.5,1973,Manual,True,False,False,False,False,False,False,False,FD,Canon,35-70mm,f/2.8–f/3.5
+Canon FD 50mm F/1.4 S.S.C. [II] · Auto,Standard prime lenses,50.0,50.0,1.4,1.4,1973,Manual,False,False,False,False,False,False,False,False,FD,Canon,50mm,f/1.4
+Canon FD 50mm F/1.4 S.S.C. [I] · Auto,Standard prime lenses,50.0,50.0,1.4,1.4,1973,Manual,False,False,False,False,False,False,False,False,FD,Canon,50mm,f/1.4
+Canon FD 50mm F/1.8 S.C. [I] · Auto,Standard prime lenses,50.0,50.0,1.8,1.8,1973,Manual,False,False,False,False,False,False,False,False,FD,Canon,50mm,f/1.8
+Canon FD 50mm F/3.5 S.S.C. Macro · Auto · 1:2,Macro lenses,50.0,50.0,3.5,3.5,1973,Manual,False,False,False,False,False,False,True,False,FD,Canon,50mm,f/3.5
+Canon FD 55mm F/1.2 S.S.C. AL · Auto,Standard prime lenses,55.0,55.0,1.2,1.2,1973,Manual,False,False,False,False,False,False,False,False,FD,Canon,55mm,f/1.2
+Canon FD 55mm F/1.2 S.S.C. · Auto,Standard prime lenses,55.0,55.0,1.2,1.2,1973,Manual,False,False,False,False,False,False,False,False,FD,Canon,55mm,f/1.2
+Canon FD 100mm F/2.8 S.S.C. · Auto,Short telephoto prime lenses,100.0,100.0,2.8,2.8,1973,Manual,False,False,False,False,False,False,False,False,FD,Canon,100mm,f/2.8
+Canon FD 100-200mm F/5.6 S.C. · Auto · Push/pull,Telephoto zoom lenses,100.0,200.0,5.6,5.6,1973,Manual,True,False,False,False,False,False,False,False,FD,Canon,100-200mm,f/5.6
+Canon FD 135mm F/2.5 S.C. · Auto,Medium telephoto prime lenses,135.0,135.0,2.5,2.5,1973,Manual,False,False,False,False,False,False,False,False,FD,Canon,135mm,f/2.5
+Canon FD 135mm F/3.5 S.C. [I] · Auto,Medium telephoto prime lenses,135.0,135.0,3.5,3.5,1973,Manual,False,False,False,False,False,False,False,False,FD,Canon,135mm,f/3.5
+Canon FD 200mm F/4 S.S.C. · Auto,Medium telephoto prime lenses,200.0,200.0,4.0,4.0,1973,Manual,False,False,False,False,False,False,False,False,FD,Canon,200mm,f/4
+Canon FD 300mm F/5.6 S.C. · Auto,Super telephoto prime lenses,300.0,300.0,5.6,5.6,1973,Manual,False,False,False,False,False,False,False,False,FD,Canon,300mm,f/5.6
+Canon FD 85mm F/1.8 S.S.C. · Auto,Short telephoto prime lenses,85.0,85.0,1.8,1.8,1974,Manual,False,False,False,False,False,False,False,False,FD,Canon,85mm,f/1.8
+Canon FD 85-300mm F/4.5 S.S.C. · Auto,Telephoto zoom lenses,85.0,300.0,4.5,4.5,1974,Manual,True,False,False,False,False,False,False,False,FD,Canon,85-300mm,f/4.5
+Canon FD 24mm F/1.4 S.S.C. Aspherical · Auto,Wide-angle prime lenses,24.0,24.0,1.4,1.4,1975,Manual,False,False,False,False,False,False,False,False,FD,Canon,24mm,f/1.4
+Canon FD 28mm F/2 S.S.C. · Auto,Wide-angle prime lenses,28.0,28.0,2.0,2.0,1975,Manual,False,False,False,False,False,False,False,False,FD,Canon,28mm,f/2
+Canon FD 28mm F/2.8 S.C. · Auto,Wide-angle prime lenses,28.0,28.0,2.8,2.8,1975,Manual,False,False,False,False,False,False,False,False,FD,Canon,28mm,f/2.8
+Canon FD 35mm F/3.5 S.C. [II] · Auto,Wide-angle prime lenses,35.0,35.0,3.5,3.5,1975,Manual,False,False,False,False,False,False,False,False,FD,Canon,35mm,f/3.5
+Canon FD 55mm F/1.2 S.S.C. Aspherical · Auto,Standard prime lenses,55.0,55.0,1.2,1.2,1975,Manual,False,False,False,False,False,False,False,False,FD,Canon,55mm,f/1.2
+Canon FD 100mm F/4 S.C. Macro · Auto · 1:2,Macro lenses,100.0,100.0,4.0,4.0,1975,Manual,False,False,False,False,False,False,True,False,FD,Canon,100mm,f/4
+Canon FD 200mm F/2.8 S.S.C. · Auto,Medium telephoto prime lenses,200.0,200.0,2.8,2.8,1975,Manual,False,False,False,False,False,False,False,False,FD,Canon,200mm,f/2.8
+Canon FD 300mm F/2.8 S.S.C. Fluorite · Auto,Super telephoto prime lenses,300.0,300.0,2.8,2.8,1975,Manual,False,False,False,False,False,False,False,False,FD,Canon,300mm,f/2.8
+Canon FD 400mm F/4.5 S.S.C. · Auto,Super telephoto prime lenses,400.0,400.0,4.5,4.5,1975,Manual,False,False,False,False,False,False,False,False,FD,Canon,400mm,f/4.5
+Canon FD 28-50mm F/3.5 S.S.C. · Auto,Standard zoom lenses,28.0,50.0,3.5,3.5,1976,Manual,True,False,False,False,False,False,False,False,FD,Canon,28-50mm,f/3.5
+Canon FD 35mm F/2 S.S.C. [II] · Auto,Wide-angle prime lenses,35.0,35.0,2.0,2.0,1976,Manual,False,False,False,False,False,False,False,False,FD,Canon,35mm,f/2
+Canon FD 50mm F/1.8 S.C. [II] · Auto,Standard prime lenses,50.0,50.0,1.8,1.8,1976,Manual,False,False,False,False,False,False,False,False,FD,Canon,50mm,f/1.8
+Canon FD 80-200mm F/4 S.S.C. · Auto,Telephoto zoom lenses,80.0,200.0,4.0,4.0,1976,Manual,True,False,False,False,False,False,False,False,FD,Canon,80-200mm,f/4
+Canon FD 85mm F/1.2 S.S.C. Aspherical · Auto,Short telephoto prime lenses,85.0,85.0,1.2,1.2,1976,Manual,False,False,False,False,False,False,False,False,FD,Canon,85mm,f/1.2
+Canon FD 135mm F/3.5 S.C. [II] · Auto,Medium telephoto prime lenses,135.0,135.0,3.5,3.5,1976,Manual,False,False,False,False,False,False,False,False,FD,Canon,135mm,f/3.5
+Canon FD 600mm F/4.5 S.S.C. · Auto,Super telephoto prime lenses,600.0,600.0,4.5,4.5,1976,Manual,False,False,False,False,False,False,False,False,FD,Canon,600mm,f/4.5
+Canon FD 800mm F/5.6 S.S.C. · Auto,Super telephoto prime lenses,800.0,800.0,5.6,5.6,1976,Manual,False,False,False,False,False,False,False,False,FD,Canon,800mm,f/5.6
+Canon FD 35mm F/3.5 S.C. [III] · Auto,Wide-angle prime lenses,35.0,35.0,3.5,3.5,1977,Manual,False,False,False,False,False,False,False,False,FD,Canon,35mm,f/3.5
+Canon FD 300mm F/5.6 S.S.C. · Auto,Super telephoto prime lenses,300.0,300.0,5.6,5.6,1977,Manual,False,False,False,False,False,False,False,False,FD,Canon,300mm,f/5.6
+Canon FD 24-35mm F/3.5 S.S.C. Aspherical · Auto,Wide-angle zoom lenses,24.0,35.0,3.5,3.5,1978,Manual,True,False,False,False,False,False,False,False,FD,Canon,24-35mm,f/3.5
+Canon FD 300mm F/4 S.S.C. · Auto,Super telephoto prime lenses,300.0,300.0,4.0,4.0,1978,Manual,False,False,False,False,False,False,False,False,FD,Canon,300mm,f/4
+Canon FD 300mm F/4L · Auto,Super telephoto prime lenses,300.0,300.0,4.0,4.0,1978,Manual,False,False,False,False,False,False,False,False,FD,Canon,300mm,f/4
+Canon FD 500mm F/8 Reflex S.S.C. · Fixed,Super telephoto prime lenses,500.0,500.0,8.0,8.0,1978,Manual,False,False,False,False,False,False,False,False,FD,Canon,500mm,f/8
+Canon FDn 7.5mm F/5.6 Fisheye · Manual,Fisheye lenses,7.5,7.5,5.6,5.6,1979,Manual,False,False,False,False,False,False,False,True,FD,Canon,7.5mm,f/5.6
+Canon FDn 17mm F/4 · Auto,Ultra-wide angle prime lenses,17.0,17.0,4.0,4.0,1979,Manual,False,False,False,False,False,False,False,False,FD,Canon,17mm,f/4
+Canon FDn 20mm F/2.8 · Auto,Ultra-wide angle prime lenses,20.0,20.0,2.8,2.8,1979,Manual,False,False,False,False,False,False,False,False,FD,Canon,20mm,f/2.8
+Canon FDn 24mm F/1.4L · Auto,Wide-angle prime lenses,24.0,24.0,1.4,1.4,1979,Manual,False,False,False,False,False,False,False,False,FD,Canon,24mm,f/1.4
+Canon FDn 24mm F/2 · Auto,Wide-angle prime lenses,24.0,24.0,2.0,2.0,1979,Manual,False,False,False,False,False,False,False,False,FD,Canon,24mm,f/2
+Canon FDn 24mm F/2.8 · Auto,Wide-angle prime lenses,24.0,24.0,2.8,2.8,1979,Manual,False,False,False,False,False,False,False,False,FD,Canon,24mm,f/2.8
+Canon FDn 24-35mm F/3.5L · Auto,Wide-angle zoom lenses,24.0,35.0,3.5,3.5,1979,Manual,True,False,False,False,False,False,False,False,FD,Canon,24-35mm,f/3.5
+Canon FDn 28mm F/2 · Auto,Wide-angle prime lenses,28.0,28.0,2.0,2.0,1979,Manual,False,False,False,False,False,False,False,False,FD,Canon,28mm,f/2
+Canon FDn 28mm F/2.8 · Auto,Wide-angle prime lenses,28.0,28.0,2.8,2.8,1979,Manual,False,False,False,False,False,False,False,False,FD,Canon,28mm,f/2.8
+Canon FDn 28-50mm F/3.5 · Auto,Standard zoom lenses,28.0,50.0,3.5,3.5,1979,Manual,True,False,False,False,False,False,False,False,FD,Canon,28-50mm,f/3.5
+Canon FDn 35mm F/2 · Auto,Wide-angle prime lenses,35.0,35.0,2.0,2.0,1979,Manual,False,False,False,False,False,False,False,False,FD,Canon,35mm,f/2
+Canon FDn 35mm F/2.8 · Auto,Wide-angle prime lenses,35.0,35.0,2.8,2.8,1979,Manual,False,False,False,False,False,False,False,False,FD,Canon,35mm,f/2.8
+Canon FDn 35-70mm F/2.8-3.5 · Auto,Standard zoom lenses,35.0,70.0,2.8,3.5,1979,Manual,True,False,False,False,False,False,False,False,FD,Canon,35-70mm,f/2.8–f/3.5
+Canon FDn 35-70mm F/4 · Auto,Standard zoom lenses,35.0,70.0,4.0,4.0,1979,Manual,True,False,False,False,False,False,False,False,FD,Canon,35-70mm,f/4
+Canon FDn 50mm F/1.4 · Auto,Standard prime lenses,50.0,50.0,1.4,1.4,1979,Manual,False,False,False,False,False,False,False,False,FD,Canon,50mm,f/1.4
+Canon FDn 50mm F/1.8 · Auto,Standard prime lenses,50.0,50.0,1.8,1.8,1979,Manual,False,False,False,False,False,False,False,False,FD,Canon,50mm,f/1.8
+Canon FDn 50mm F/3.5 Macro · Auto · 1:2,Macro lenses,50.0,50.0,3.5,3.5,1979,Manual,False,False,False,False,False,False,True,False,FD,Canon,50mm,f/3.5
+Canon FDn 70-150mm F/4.5 · Auto · Push/pull,Telephoto zoom lenses,70.0,150.0,4.5,4.5,1979,Manual,True,False,False,False,False,False,False,False,FD,Canon,70-150mm,f/4.5
+Canon FDn 80-200mm F/4 · Auto,Telephoto zoom lenses,80.0,200.0,4.0,4.0,1979,Manual,True,False,False,False,False,False,False,False,FD,Canon,80-200mm,f/4
+Canon FDn 85mm F/1.8 · Auto,Short telephoto prime lenses,85.0,85.0,1.8,1.8,1979,Manual,False,False,False,False,False,False,False,False,FD,Canon,85mm,f/1.8
+Canon FDn 100mm F/2.8 · Auto,Short telephoto prime lenses,100.0,100.0,2.8,2.8,1979,Manual,False,False,False,False,False,False,False,False,FD,Canon,100mm,f/2.8
+Canon FDn 100mm F/4 Macro · Auto · 1:2,Macro lenses,100.0,100.0,4.0,4.0,1979,Manual,False,False,False,False,False,False,True,False,FD,Canon,100mm,f/4
+Canon FDn 100-200mm F/5.6 · Auto · Push/pull,Telephoto zoom lenses,100.0,200.0,5.6,5.6,1979,Manual,True,False,False,False,False,False,False,False,FD,Canon,100-200mm,f/5.6
+Canon FDn 135mm F/2.8 · Auto,Medium telephoto prime lenses,135.0,135.0,2.8,2.8,1979,Manual,False,False,False,False,False,False,False,False,FD,Canon,135mm,f/2.8
+Canon FDn 135mm F/3.5 · Auto,Medium telephoto prime lenses,135.0,135.0,3.5,3.5,1979,Manual,False,False,False,False,False,False,False,False,FD,Canon,135mm,f/3.5
+Canon FDn 200mm F/2.8 [I] · Auto,Medium telephoto prime lenses,200.0,200.0,2.8,2.8,1979,Manual,False,False,False,False,False,False,False,False,FD,Canon,200mm,f/2.8
+Canon FDn 200mm F/4 · Auto,Medium telephoto prime lenses,200.0,200.0,4.0,4.0,1979,Manual,False,False,False,False,False,False,False,False,FD,Canon,200mm,f/4
+Canon FDn 300mm F/4 · Auto,Super telephoto prime lenses,300.0,300.0,4.0,4.0,1979,Manual,False,False,False,False,False,False,False,False,FD,Canon,300mm,f/4
+Canon FDn 300mm F/5.6 · Auto,Super telephoto prime lenses,300.0,300.0,5.6,5.6,1979,Manual,False,False,False,False,False,False,False,False,FD,Canon,300mm,f/5.6
+Canon FD 500mm F/4.5L · Auto,Super telephoto prime lenses,500.0,500.0,4.5,4.5,1979,Manual,False,False,False,False,False,False,False,False,FD,Canon,500mm,f/4.5
+Canon FD 800mm F/5.6L · Auto,Super telephoto prime lenses,800.0,800.0,5.6,5.6,1979,Manual,False,False,False,False,False,False,False,False,FD,Canon,800mm,f/5.6
+Canon FDn 15mm F/2.8 Fisheye · Auto,Fisheye lenses,15.0,15.0,2.8,2.8,1980,Manual,False,False,False,False,False,False,False,True,FD,Canon,15mm,f/2.8
+Canon FDn 50mm F/1.2 · Auto,Standard prime lenses,50.0,50.0,1.2,1.2,1980,Manual,False,False,False,False,False,False,False,False,FD,Canon,50mm,f/1.2
+Canon FDn 50mm F/1.2L · Auto,Standard prime lenses,50.0,50.0,1.2,1.2,1980,Manual,False,False,False,False,False,False,False,False,FD,Canon,50mm,f/1.2
+Canon FDn 50mm F/2 · Auto,Standard prime lenses,50.0,50.0,2.0,2.0,1980,Manual,False,False,False,False,False,False,False,False,FD,Canon,50mm,f/2
+Canon FDn 70-210mm F/4 · Auto · Push/pull,Telephoto zoom lenses,70.0,210.0,4.0,4.0,1980,Manual,True,False,False,False,False,False,False,False,FD,Canon,70-210mm,f/4
+Canon FDn 85mm F/1.2L · Auto,Short telephoto prime lenses,85.0,85.0,1.2,1.2,1980,Manual,False,False,False,False,False,False,False,False,FD,Canon,85mm,f/1.2
+Canon FDn 100mm F/2 · Auto,Short telephoto prime lenses,100.0,100.0,2.0,2.0,1980,Manual,False,False,False,False,False,False,False,False,FD,Canon,100mm,f/2
+Canon FDn 100-300mm F/5.6 · Auto · Push/pull,Telephoto zoom lenses,100.0,300.0,5.6,5.6,1980,Manual,True,False,False,False,False,False,False,False,FD,Canon,100-300mm,f/5.6
+Canon FDn 135mm F/2 · Auto,Medium telephoto prime lenses,135.0,135.0,2.0,2.0,1980,Manual,False,False,False,False,False,False,False,False,FD,Canon,135mm,f/2
+Canon FDn 300mm F/4L · Auto,Super telephoto prime lenses,300.0,300.0,4.0,4.0,1980,Manual,False,False,False,False,False,False,False,False,FD,Canon,300mm,f/4
+Canon FDn 500mm F/8 Reflex · Fixed,Super telephoto prime lenses,500.0,500.0,8.0,8.0,1980,Manual,False,False,False,False,False,False,False,False,FD,Canon,500mm,f/8
+Canon FDn 35-105mm F/3.5 · Auto,Standard zoom lenses,35.0,105.0,3.5,3.5,1981,Manual,True,False,False,False,False,False,False,False,FD,Canon,35-105mm,f/3.5
+Canon FDn 50-135mm F/3.5 · Auto · Push/pull,Telephoto zoom lenses,50.0,135.0,3.5,3.5,1981,Manual,True,False,False,False,False,False,False,False,FD,Canon,50-135mm,f/3.5
+Canon FDn 85-300mm F/4.5 · Auto,Telephoto zoom lenses,85.0,300.0,4.5,4.5,1981,Manual,True,False,False,False,False,False,False,False,FD,Canon,85-300mm,f/4.5
+Canon FDn 200mm F/4 Macro · Auto · 1:1,Macro lenses,200.0,200.0,4.0,4.0,1981,Manual,False,False,False,False,False,False,True,False,FD,Canon,200mm,f/4
+Canon FDn 300mm F/2.8L · Auto,Super telephoto prime lenses,300.0,300.0,2.8,2.8,1981,Manual,False,False,False,False,False,False,False,False,FD,Canon,300mm,f/2.8
+Canon FDn 400mm F/2.8L · Auto,Super telephoto prime lenses,400.0,400.0,2.8,2.8,1981,Manual,False,False,False,False,False,False,False,False,FD,Canon,400mm,f/2.8
+Canon FDn 400mm F/4.5 · Auto,Super telephoto prime lenses,400.0,400.0,4.5,4.5,1981,Manual,False,False,False,False,False,False,False,False,FD,Canon,400mm,f/4.5
+Canon FDn 500mm F/4.5L · Auto,Super telephoto prime lenses,500.0,500.0,4.5,4.5,1981,Manual,False,False,False,False,False,False,False,False,FD,Canon,500mm,f/4.5
+Canon FDn 600mm F/4.5 · Auto,Super telephoto prime lenses,600.0,600.0,4.5,4.5,1981,Manual,False,False,False,False,False,False,False,False,FD,Canon,600mm,f/4.5
+Canon FDn 800mm F/5.6L · Auto,Super telephoto prime lenses,800.0,800.0,5.6,5.6,1981,Manual,False,False,False,False,False,False,False,False,FD,Canon,800mm,f/5.6
+Canon FDn 14mm F/2.8L · Auto,Ultra-wide angle prime lenses,14.0,14.0,2.8,2.8,1982,Manual,False,False,False,False,False,False,False,False,FD,Canon,14mm,f/2.8
+Canon FDn 50-300mm F/4.5L · Auto,Telephoto zoom lenses,50.0,300.0,4.5,4.5,1982,Manual,True,False,False,False,False,False,False,False,FD,Canon,50-300mm,f/4.5
+Canon FDn 150-600mm F/5.6L · Auto · Push/pull,Super telephoto zoom lenses,150.0,600.0,5.6,5.6,1982,Manual,True,False,False,False,False,False,False,False,FD,Canon,150-600mm,f/5.6
+Canon FDn 200mm F/2.8 [II] · Auto,Medium telephoto prime lenses,200.0,200.0,2.8,2.8,1982,Manual,False,False,False,False,False,False,False,False,FD,Canon,200mm,f/2.8
+Canon FDn 28-55mm F/3.5-4.5 · Auto,Standard zoom lenses,28.0,55.0,3.5,4.5,1983,Manual,True,False,False,False,False,False,False,False,FD,Canon,28-55mm,f/3.5–f/4.5
+Canon FDn 35-70mm F/3.5-4.5 · Auto,Standard zoom lenses,35.0,70.0,3.5,4.5,1983,Manual,True,False,False,False,False,False,False,False,FD,Canon,35-70mm,f/3.5–f/4.5
+Canon FDn 85mm F/2.8 Soft Focus · Auto,Short telephoto prime lenses,85.0,85.0,2.8,2.8,1983,Manual,False,False,False,False,False,False,False,False,FD,Canon,85mm,f/2.8
+Canon FDn 20-35mm F/3.5L · Auto,Wide-angle zoom lenses,20.0,35.0,3.5,3.5,1984,Manual,True,False,False,False,False,False,False,False,FD,Canon,20-35mm,f/3.5
+Canon FDn 75-200mm F/4.5 · Auto · Push/pull,Telephoto zoom lenses,75.0,200.0,4.5,4.5,1984,Manual,True,False,False,False,False,False,False,False,FD,Canon,75-200mm,f/4.5
+Canon FDn 28-85mm F/4 · Auto,Standard zoom lenses,28.0,85.0,4.0,4.0,1985,Manual,True,False,False,False,False,False,False,False,FD,Canon,28-85mm,f/4
+Canon FDn 35-105mm F/3.5-4.5 · Auto · Push/pull,Standard zoom lenses,35.0,105.0,3.5,4.5,1985,Manual,True,False,False,False,False,False,False,False,FD,Canon,35-105mm,f/3.5–f/4.5
+Canon FDn 80-200mm F/4L · Auto · Push/pull,Telephoto zoom lenses,80.0,200.0,4.0,4.0,1985,Manual,True,False,False,False,False,False,False,False,FD,Canon,80-200mm,f/4
+Canon FDn 100-300mm F/5.6L · Auto · Push/pull,Telephoto zoom lenses,100.0,300.0,5.6,5.6,1985,Manual,True,False,False,False,False,False,False,False,FD,Canon,100-300mm,f/5.6
+Canon FDn 200mm F/1.8L · Auto,Medium telephoto prime lenses,200.0,200.0,1.8,1.8,1989,Manual,False,False,False,False,False,False,False,False,FD,Canon,200mm,f/1.8
